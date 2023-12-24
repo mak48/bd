@@ -1,9 +1,9 @@
 # 4 queries
 ## Результаты
 
-![](tiny.png)
+![](tiny_test.png)
 
-![](big.png)
+![](big_test.png)
 
 ## Запуск
 1. Поправьте configuration.py
